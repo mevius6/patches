@@ -2,6 +2,7 @@
 
 * __AxisIndex__ ```Number```
 * __Bumpy__ ```Texture```
+* __channel__ ```String```
 * __distance__ ```Number```
 * __i__ ```Number```
 
